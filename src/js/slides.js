@@ -6,7 +6,7 @@ export const slides = [
     location:'Krakow, Poland',
     field: 'Free admission',
     date:'August 25, 2025',
-    image:'/image1.1.jpg',
+    image:'dist/img/image1.1.jpg',
   },
   {
     title: 'Balloon Show',
@@ -15,7 +15,7 @@ export const slides = [
     location:'Warsaw, Poland',
     field: 'Free admission',
     date:'August 30, 2025',
-    image:'/image2.jpg',
+    image:'dist/img/image2.jpg',
   },
   {
     title: 'Chinese Carnival',
@@ -24,7 +24,7 @@ export const slides = [
     location:'Beijing, China',
     field: 'Free admission',
     date:'September 30, 2025',
-    image:'/image3.jpg',
+    image:'dist/img/image3.jpg',
   },
   {
     title: 'Lorem Ipsum',
@@ -33,7 +33,7 @@ export const slides = [
     location:'Beijing, China',
     field: 'Free admission',
     date:'September 30, 2025',
-    image:'/image4.jpg',
+    image:'dist/img/image4.jpg',
   },
   {
     title: 'Lorem Ipsum',
@@ -42,7 +42,7 @@ export const slides = [
     location:'Beijing, China',
     field: 'Free admission',
     date:'September 30, 2025',
-    image:'/image5.jpg',
+    image:'dist/img/image5.jpg',
   },
   {
     title: 'Lorem Ipsum',
@@ -51,7 +51,7 @@ export const slides = [
     location:'Beijing, China',
     field: 'Free admission',
     date:'September 30, 2025',
-    image:'/image6.jpg',
+    image:'dist/img/image6.jpg',
   },
   {
     title: 'Lorem Ipsum',
@@ -60,6 +60,6 @@ export const slides = [
     location:'Beijing, China',
     field: 'Free admission',
     date:'September 30, 2025',
-    image:'/image3.jpg',
+    image:'dist/img/image3.jpg',
   },
 ]
