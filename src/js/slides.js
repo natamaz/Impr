@@ -54,13 +54,5 @@ export const slides = [
     date:'September 30, 2025',
     image: `${BASE_PATH}/image6.jpg`,
   },
-  {
-    title: 'Lorem Ipsum',
-    description:
-      '"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit',
-    location:'Beijing, China',
-    field: 'Free admission',
-    date:'September 30, 2025',
-    image: `${BASE_PATH}/image2.jpg`,
-  },
+
 ]
