@@ -7,7 +7,7 @@ export const slides = [
     location:'Krakow, Poland',
     field: 'Free admission',
     date:'August 25, 2025',
-    image: `${BASE_PATH}/img/image1.1.jpg`,
+    image: `${BASE_PATH}/img/image1.jpg`,
   },
   {
     title: 'Balloon Show',
