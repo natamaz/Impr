@@ -254,5 +254,9 @@ window.addEventListener('load', () => {
   setupInitialSlide();
   initializeRenderer();
 });
+document.addEventListener('DOMContentLoaded', () => {
+  setupInitialSlide();
+  initializeRenderer();
+});
 document.addEventListener('click', handleSlideChange);
 window.addEventListener('resize', handleResize);
